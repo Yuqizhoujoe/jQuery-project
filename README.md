@@ -13,4 +13,4 @@
 
 Requirements to run this project
 * make sure you have installed apache or XAMPP to support you run this project on your localhost
-* if you don't know about the localhost, please check this course[Installing apache, MySQL & PHP](https://www.linkedin.com/learning/installing-apache-mysql-and-php-2/welcome)
+* if you don't know about the localhost, please check this course [Installing apache, MySQL & PHP](https://www.linkedin.com/learning/installing-apache-mysql-and-php-2/welcome)
